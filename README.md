@@ -1,6 +1,6 @@
 # moq-kit-secure
 
-**Modified version of moq-kit, adding moq-secure encryption and signing.  Both Android and iOS use the moq-ffi bindings.  Once changes are implemented in the moq-mux Rust crate, UniFFI bindings will be regenerated, with Swift and Kotlin wrappers updated**
+**Modified version of moq-kit, adding [moq-secure](https://github.com/cathode-ray-tube/moq-secure) encryption and signing.  Both Android and iOS use the moq-ffi bindings.  Once changes are implemented in the moq-mux Rust crate, UniFFI bindings will be regenerated, with Swift and Kotlin wrappers updated**
 
 Native Swift and Kotlin SDKs for publishing and playing low-latency media streams over QUIC.
 
